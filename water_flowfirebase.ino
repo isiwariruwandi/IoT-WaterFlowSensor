@@ -6,7 +6,7 @@
 #define WIFI_PASSWORD "6789tfcs"
 
 // Firebase credentials
-#define API_KEY "AIzaSyA3yARNAUvpg2Q5ym2euy8Dafy3ecqo5yM"
+#define API_KEY "################"
 #define DATABASE_URL "https://watermonitoringsystem-d232c-default-rtdb.asia-southeast1.firebasedatabase.app/"
 
 // Firebase objects
